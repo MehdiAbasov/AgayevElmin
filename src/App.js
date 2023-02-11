@@ -111,7 +111,7 @@ function App() {
                 Dörd illik pedoqoji təcrübə.
                 Abituriyent və müəllimlərə dəstək üçün youtube kanalımız
                 fəaliyyətdədir.
-                Dəstək olub faydalana bilərsiniz.</p>
+                Dəstək olub faydalana bilərsiniz</p>
             </div>
             <div className="buttons">
               <a href='#form'>Əlaqə</a>
